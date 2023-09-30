@@ -1,1 +1,1 @@
-# .github
+# Ignore this repository :)
